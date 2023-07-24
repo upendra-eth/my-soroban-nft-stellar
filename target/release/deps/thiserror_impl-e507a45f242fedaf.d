@@ -1,0 +1,12 @@
+/data/1-important/my-soroban-nft-stellar/target/release/deps/libthiserror_impl-e507a45f242fedaf.so: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/ast.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/attr.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/expand.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/fmt.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/generics.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/prop.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/valid.rs
+
+/data/1-important/my-soroban-nft-stellar/target/release/deps/thiserror_impl-e507a45f242fedaf.d: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/ast.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/attr.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/expand.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/fmt.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/generics.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/prop.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/valid.rs
+
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/lib.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/ast.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/attr.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/expand.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/fmt.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/generics.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/prop.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.38/src/valid.rs:

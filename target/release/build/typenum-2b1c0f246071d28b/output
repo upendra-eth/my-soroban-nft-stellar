@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/data/1-important/my-soroban-nft-stellar/target/release/build/typenum-2b1c0f246071d28b/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/data/1-important/my-soroban-nft-stellar/target/release/build/typenum-2b1c0f246071d28b/out/op.rs
